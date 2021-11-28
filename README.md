@@ -10,6 +10,7 @@ Created by [Andar Pratama](https://www.instagram.com/andar.pra/).
 * React Router DOM v.6
 
 ## Folder Structor
+`
 starter-react-bootsrap/
 ├── node_modules/
 ├── public/
@@ -30,6 +31,7 @@ starter-react-bootsrap/
 ├── package.json
 ├── README.md
 └── yarn.lock
+`
 
 
 ## To the start, available scripts
