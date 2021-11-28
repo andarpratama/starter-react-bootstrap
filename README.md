@@ -19,6 +19,11 @@ starter-react-bootsrap/
 │   ├── manifest.json
 │   └── robots.txt
 ├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── parts/
+│   ├── services/
 │   ├── App.css
 │   ├── App.js
 │   ├── App.test.js
