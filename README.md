@@ -73,17 +73,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Another Starterpack 
 
-* [React Bootstrap](https://facebook.github.io/create-react-app/docs/getting-started).
-* [React Tailwind](https://facebook.github.io/create-react-app/docs/getting-started).
-* [Gulp Starterpack](https://facebook.github.io/create-react-app/docs/getting-started).
-* [NodeJS](https://facebook.github.io/create-react-app/docs/getting-started).
-* [Typescript Backend](https://facebook.github.io/create-react-app/docs/getting-started).
+* [React Bootstrap](https://facebook.github.io/create-react-app/docs/getting-started)
+* [React Tailwind](https://facebook.github.io/create-react-app/docs/getting-started)
+* [Gulp Starterpack](https://facebook.github.io/create-react-app/docs/getting-started)
+* [NodeJS](https://facebook.github.io/create-react-app/docs/getting-started)
+* [Typescript Backend](https://facebook.github.io/create-react-app/docs/getting-started)
 
 ## Join Us
 
-* [Github](https://github.com/andarpratama).
-* [Instagram](https://www.instagram.com/andar.pra/).
-* [Youtube](https://www.youtube.com/channel/UC2Vluz3bnO8t9TOXu2xL-lw).
-* [Medium](https://andarpratama.medium.com/).
+* [Github](https://github.com/andarpratama)
+* [Instagram](https://www.instagram.com/andar.pra/)
+* [Youtube](https://www.youtube.com/channel/UC2Vluz3bnO8t9TOXu2xL-lw)
+* [Medium](https://andarpratama.medium.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/)
