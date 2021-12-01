@@ -3,15 +3,20 @@ import './App.css';
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Navbar from './parts/Navbar';
+import Product from './pages/Product';
+import Register from './pages/Register';
 
 function App() {
+  const title = 'FAD - Sate';
   return (
     <Router>
       <div className="App" >
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/login" element={<Login />} />
+          <Route path="/" element={<Home title={title} />} />
+          <Route path="/login" element={<Login title={title} />} />
+          <Route path="/register" element={<Register title={title} />} />
+          <Route path="/product" element={<Product title={title} />} />
         </Routes>
       </div>
     </Router>

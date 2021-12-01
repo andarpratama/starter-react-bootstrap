@@ -1,12 +1,12 @@
 import React from "react"
 
 class Home extends React.Component {
-    state = {
+    state = { 
         title: 'Home'
     }
 
     componentDidMount(){
-        document.title = this.state.title
+        document.title = this.props.title + ' - ' + this.state.title
     }
 
     render(){
